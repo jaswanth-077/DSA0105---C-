@@ -1,4 +1,0 @@
-CITY METRO SMART CARD SYSTEM
-Passenger Name: Jaswanth
-Passenger Age: 20
-Base Fare: Rs. 10
