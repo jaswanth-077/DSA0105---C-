@@ -1,8 +1,0 @@
-Passing by value:
-Copy constructor called!
-Passed by value.
-Copy count: 1
-
-Passing by reference:
-Passed by reference.
-Copy count: 1

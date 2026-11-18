@@ -1,2 +1,0 @@
-Copies: 10
-Price: 500
