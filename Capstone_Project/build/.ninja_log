@@ -1,0 +1,40 @@
+# ninja log v7
+49	10145	8152981483681647	SmartStudyPlanner_autogen/timestamp	8408dead6cd14ba2
+49	10145	8152981483681647	SmartStudyPlanner_autogen/mocs_compilation.cpp	8408dead6cd14ba2
+49	10145	8152981483681647	C:/Users/gjjas/OneDrive/Desktop/New folder (5)/build/SmartStudyPlanner_autogen/timestamp	8408dead6cd14ba2
+49	10145	8152981483681647	C:/Users/gjjas/OneDrive/Desktop/New folder (5)/build/SmartStudyPlanner_autogen/mocs_compilation.cpp	8408dead6cd14ba2
+10170	10388	8152981487696567	SmartStudyPlanner_autogen/3YJK5W5UP7/qrc_resources.cpp	a8694a1edcb1f51b
+10170	10388	8152981487696567	C:/Users/gjjas/OneDrive/Desktop/New folder (5)/build/SmartStudyPlanner_autogen/3YJK5W5UP7/qrc_resources.cpp	a8694a1edcb1f51b
+10447	30416	8152981488674652	CMakeFiles/SmartStudyPlanner.dir/src/models/StudySession.cpp.obj	9dffda071e6285a
+10433	30529	8152981488541323	CMakeFiles/SmartStudyPlanner.dir/src/models/ScheduleEntry.cpp.obj	385af97758f3883
+10469	30579	8152981488909797	CMakeFiles/SmartStudyPlanner.dir/src/models/DeadlineRisk.cpp.obj	346fa09a19816089
+10417	31251	8152981488375930	CMakeFiles/SmartStudyPlanner.dir/src/models/Task.cpp.obj	88f2f71401f26e81
+10493	32652	8152981489135003	CMakeFiles/SmartStudyPlanner.dir/src/models/RecoveryPlan.cpp.obj	2b8f323bfacb00f6
+10613	35185	8152981490335216	CMakeFiles/SmartStudyPlanner.dir/src/ui/Sidebar.cpp.obj	a89c9c7a61e7715
+10405	36055	8152981488250622	CMakeFiles/SmartStudyPlanner.dir/src/main.cpp.obj	c4e772f53beb55f8
+10600	36368	8152981490205713	CMakeFiles/SmartStudyPlanner.dir/src/ui/MainWindow.cpp.obj	1b5f5f9baad63feb
+10544	40367	8152981489641248	CMakeFiles/SmartStudyPlanner.dir/src/services/DeadlineAnalyzer.cpp.obj	72b104fb03537f48
+10389	40573	8152981488097131	CMakeFiles/SmartStudyPlanner.dir/SmartStudyPlanner_autogen/mocs_compilation.cpp.obj	99910ced7846e30d
+10565	41579	8152981489871277	CMakeFiles/SmartStudyPlanner.dir/src/services/RecoveryScheduler.cpp.obj	60191a8c949854b5
+10585	42583	8152981490051264	CMakeFiles/SmartStudyPlanner.dir/src/services/WorkloadBalancer.cpp.obj	69a0bd0119de7cee
+32653	43598	8152981710735423	CMakeFiles/SmartStudyPlanner.dir/src/ui/FocusTimerView.cpp.obj	cd5f6c322f8c12eb
+30580	43619	8152981690018594	CMakeFiles/SmartStudyPlanner.dir/src/ui/ScheduleRecoveryView.cpp.obj	889e518d458749cd
+36056	43635	8152981744775607	CMakeFiles/SmartStudyPlanner.dir/src/ui/dialogs/TaskEditDialog.cpp.obj	c6a2c2f8b28bfd29
+10525	43655	8152981489460169	CMakeFiles/SmartStudyPlanner.dir/src/services/TaskService.cpp.obj	c64da366177a368d
+36369	43766	8152981747896942	CMakeFiles/SmartStudyPlanner.dir/src/ui/dialogs/LogSessionDialog.cpp.obj	906de680512fc1b4
+31251	43797	8152981696722152	CMakeFiles/SmartStudyPlanner.dir/src/ui/AnalyticsView.cpp.obj	972607180104a204
+43620	44029	8152981820397540	CMakeFiles/SmartStudyPlanner.dir/SmartStudyPlanner_autogen/3YJK5W5UP7/qrc_resources.cpp.obj	22c20c087fc09c15
+30530	44124	8152981689508642	CMakeFiles/SmartStudyPlanner.dir/src/ui/TaskManagerView.cpp.obj	85cf2b8c374f815b
+35185	44323	8152981736063788	CMakeFiles/SmartStudyPlanner.dir/src/ui/SettingsView.cpp.obj	e5e24a5e34d7185d
+10511	44610	8152981489324994	CMakeFiles/SmartStudyPlanner.dir/src/database/DatabaseManager.cpp.obj	76bc82ad035a7214
+30417	44857	8152981688432642	CMakeFiles/SmartStudyPlanner.dir/src/ui/DashboardView.cpp.obj	dfcca88ca864c646
+40574	47000	8152981789954207	CMakeFiles/SmartStudyPlanner.dir/src/ui/widgets/StatCard.cpp.obj	f5cb52edeb027b0f
+40368	49114	8152981787882117	CMakeFiles/SmartStudyPlanner.dir/src/ui/dialogs/RecoveryPlanDialog.cpp.obj	9aadaabf498a7b67
+43598	51801	8152981820187556	CMakeFiles/SmartStudyPlanner.dir/src/ui/widgets/SubjectProgressWidget.cpp.obj	9556375ee541c4d9
+42583	52092	8152981810038338	CMakeFiles/SmartStudyPlanner.dir/src/ui/widgets/StatusPieChartWidget.cpp.obj	b3da027ae0982e88
+41579	52127	8152981800002082	CMakeFiles/SmartStudyPlanner.dir/src/ui/widgets/WorkloadChartWidget.cpp.obj	430b78ebf03f3a1e
+52127	53032	8152981905475954	SmartStudyPlanner.exe	7ea9e93d812f5239
+201	546	8166904143713233	SmartStudyPlanner_autogen/3YJK5W5UP7/qrc_resources.cpp	a8694a1edcb1f51b
+201	546	8166904143713233	C:/Users/gjjas/OneDrive/Desktop/New folder (5)/build/SmartStudyPlanner_autogen/3YJK5W5UP7/qrc_resources.cpp	a8694a1edcb1f51b
+548	1695	8166904144010486	CMakeFiles/SmartStudyPlanner.dir/SmartStudyPlanner_autogen/3YJK5W5UP7/qrc_resources.cpp.obj	22c20c087fc09c15
+93	1704	8166904369200186	SmartStudyPlanner.exe	7ea9e93d812f5239
