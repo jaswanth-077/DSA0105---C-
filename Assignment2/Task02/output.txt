@@ -1,3 +1,0 @@
-Before: x = 10, y = 20
-After: x = 10, y = 100
-First element: 10

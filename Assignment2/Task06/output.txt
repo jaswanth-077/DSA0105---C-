@@ -1,3 +1,0 @@
-Minutes between: 105
-Is first time earlier? Yes
-Inline function result: 45
