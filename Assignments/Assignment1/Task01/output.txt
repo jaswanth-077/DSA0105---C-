@@ -1,0 +1,6 @@
+CITY METRO SMART CARD SYSTEM
+Passenger: Jaswanth
+Category: Student
+Card Balance: Rs. 100
+Travel Zone: Inner Zone
+Fare: Rs. 10
